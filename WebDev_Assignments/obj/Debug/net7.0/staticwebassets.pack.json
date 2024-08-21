@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ranjit/projects/program/WebDev/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.WebDev.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.WebDev.props",
+      "PackagePath": "build\\WebDev.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebDev.props",
+      "PackagePath": "buildMultiTargeting\\WebDev.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebDev.props",
+      "PackagePath": "buildTransitive\\WebDev.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

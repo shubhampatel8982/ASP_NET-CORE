@@ -1,0 +1,30 @@
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/appsettings.Development.json
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/appsettings.json
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/WebDev
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/WebDev.deps.json
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/WebDev.runtimeconfig.json
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/WebDev.dll
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/WebDev.pdb
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.csproj.AssemblyReference.cache
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.AssemblyInfoInputs.cache
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.AssemblyInfo.cs
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.csproj.CoreCompileInputs.cache
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.MvcApplicationPartsAssemblyInfo.cache
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets/msbuild.WebDev.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets/msbuild.build.WebDev.props
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebDev.props
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebDev.props
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/scopedcss/bundle/WebDev.styles.css
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.dll
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/refint/WebDev.dll
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.pdb
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/WebDev.genruntimeconfig.cache
+/Users/ranjit/projects/program/WebDev/obj/Debug/net7.0/ref/WebDev.dll
+/Users/ranjit/projects/program/WebDev/bin/Debug/net7.0/WebDev.staticwebassets.runtime.json
+H:\Shubham_Patel_Assignments\ASP.Net Core_assignments\WebDev_Assignments\obj\Debug\net7.0\WebDev.dll
+H:\Shubham_Patel_Assignments\ASP.Net Core_assignments\WebDev_Assignments\obj\Debug\net7.0\refint\WebDev.dll
+H:\Shubham_Patel_Assignments\ASP.Net Core_assignments\WebDev_Assignments\obj\Debug\net7.0\WebDev.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6Z0N70dxXPFRQ/L45mkXsily6YF7OgGi1/KhiJXMhEE=",
+  "Source": "WebDev",
+  "BasePath": "_content/WebDev",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebDev/wwwroot",
+      "Source": "WebDev",
+      "ContentRoot": "/Users/ranjit/projects/program/WebDev/wwwroot/",
+      "BasePath": "_content/WebDev",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ranjit/projects/program/WebDev/wwwroot/index.html",
+      "SourceId": "WebDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ranjit/projects/program/WebDev/wwwroot/",
+      "BasePath": "_content/WebDev",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
